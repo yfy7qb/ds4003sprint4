@@ -4,8 +4,6 @@ import numpy as np
 import plotly.express as px
 import dash
 from dash import Dash,dash_table, dcc, html, Input, Output, callback
-import plotly.graph_objects as go
-from plotly.offline import init_notebook_mode, iplot, plot
 import plotly as py
 
 # Import CSV
